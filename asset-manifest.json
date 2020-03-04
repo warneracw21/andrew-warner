@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/andrew-warner/static/css/main.d1b05096.chunk.css",
+    "main.js": "/andrew-warner/static/js/main.f96833b7.chunk.js",
+    "main.js.map": "/andrew-warner/static/js/main.f96833b7.chunk.js.map",
+    "runtime-main.js": "/andrew-warner/static/js/runtime-main.934d9aa2.js",
+    "runtime-main.js.map": "/andrew-warner/static/js/runtime-main.934d9aa2.js.map",
+    "static/js/2.3e6c2a6d.chunk.js": "/andrew-warner/static/js/2.3e6c2a6d.chunk.js",
+    "static/js/2.3e6c2a6d.chunk.js.map": "/andrew-warner/static/js/2.3e6c2a6d.chunk.js.map",
+    "index.html": "/andrew-warner/index.html",
+    "precache-manifest.60127d1dade6b6ad85a93aa1b5c24b2c.js": "/andrew-warner/precache-manifest.60127d1dade6b6ad85a93aa1b5c24b2c.js",
+    "service-worker.js": "/andrew-warner/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/andrew-warner/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.3e6c2a6d.chunk.js.LICENSE.txt": "/andrew-warner/static/js/2.3e6c2a6d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/andrew-warner/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.934d9aa2.js",
+    "static/js/2.3e6c2a6d.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.f96833b7.chunk.js"
+  ]
+}
